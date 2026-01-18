@@ -5,7 +5,7 @@
 
 2.Gff Gbff File
 
-3.Chrmosome and plasmid ID (including its strand)
+3.Chromosome and plasmid ID (including its strand)
 
 4.Genome length
 
