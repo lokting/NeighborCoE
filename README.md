@@ -8,6 +8,9 @@ NeighborCoE is a Python-based pipeline for identifying operons from bacterial ge
 - Infer operons based on intergenic organization
 - Annotate operon gene composition for each strain
 - Identify the core operonome across strains using cluster-mapped operon signatures
+
+# PanOperonome
+Automated tool for pan-operonome network analysis.
   
 ## When using this package
 ## Some input files are necessary
