@@ -34,7 +34,8 @@ Operonome/
 ├── images/
 ├── README.md
 └── requirement.txt
-```text
+
+```
 
 ## Module 1. Operon and core operonome
 
