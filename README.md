@@ -1,6 +1,6 @@
-# Operonome
+# NeighborCoE
 
-Operonome is a Python-based pipeline for identifying operons from bacterial genome annotation and count data, and for further defining the core operonome across multiple strains using core-genome cluster file.
+NeighborCoE is a Python-based pipeline for identifying operons from bacterial genome annotation and count data, and for further defining the core operonome and pan operonome.
 
 ## Features
 - Parse GBFF/GFF annotations into operon-ready tables
@@ -21,5 +21,7 @@ Operonome is a Python-based pipeline for identifying operons from bacterial geno
 4.Genome length
 
 5.Core-genome cluster file for core operonome identification
+
+6.Pan-genome results and mutual blast results for pan operonome identification
 
 The example file format is in images/
