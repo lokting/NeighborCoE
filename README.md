@@ -1,6 +1,6 @@
-# Operonome
+# Operonome-NeighborCoE
 
-Operonome is a Python-based toolkit for bacterial operonome analysis. It includes three main modules:
+NeighborCoE is a Python-based toolkit for bacterial operonome analysis. It includes three main modules:
 
 1. **GetOperon**: identification of operons from genome annotation and transcriptomic count data.
 2. **CoreTUs**: identification of core transcriptional units / core operonome across strains.
