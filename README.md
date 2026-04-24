@@ -316,7 +316,7 @@ This file contains the final pan-operonome network.
 
 ## Notes
 
-- All scripts should be run from their own module directory. For example, run `bash operon.sh` inside `GetOperon/`, not from the main `Operonome/` directory.
+- All scripts should be run from their own module directory. For example, run `bash operon.sh` inside `GetOperon/`, not from the main `NeighborCoE/` directory.
 - The example input and output files are provided only as representative data to show the required file formats.
 - The required input files must be kept in the input folder even if they do not contain any records. Do not delete empty input files; keep them as blank placeholder files when no corresponding data are available.
 
