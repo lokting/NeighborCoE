@@ -54,7 +54,7 @@ NeiborCoE/
 Clone the repository and enter the working directory:
 
 ```bash
-git clone https://github.com/lokting/NeiborCoE.git
+git clone https://github.com/lokting/NeighborCoE.git
 cd NeiborCoE
 ```
 
