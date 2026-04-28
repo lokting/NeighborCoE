@@ -13,7 +13,7 @@ Representative input and output files are provided in the `examples/` directory.
 ## Repository structure
 
 ```text
-Operonome/
+NeiborCoE/
 ├── GetOperon/
 │   ├── code/
 │   │   ├── 0.gbff_to_excel.py
@@ -54,15 +54,15 @@ Operonome/
 Clone the repository and enter the working directory:
 
 ```bash
-git clone https://github.com/lokting/Operonome.git
-cd Operonome
+git clone https://github.com/lokting/NeiborCoE.git
+cd NeiborCoE
 ```
 
 Create a conda environment:
 
 ```bash
-conda create -n operonome python=3.8 -y
-conda activate operonome
+conda create -n NeiborCoE python=3.8 -y
+conda activate NeiborCoE
 ```
 
 Install the required Python packages:
