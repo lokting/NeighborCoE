@@ -55,14 +55,14 @@ Clone the repository and enter the working directory:
 
 ```bash
 git clone https://github.com/lokting/NeighborCoE.git
-cd NeiborCoE
+cd NeighborCoE
 ```
 
 Create a conda environment:
 
 ```bash
-conda create -n NeiborCoE python=3.8 -y
-conda activate NeiborCoE
+conda create -n NeighborCoE python=3.8 -y
+conda activate NeighborCoE
 ```
 
 Install the required Python packages:
